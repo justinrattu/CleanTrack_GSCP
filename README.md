@@ -28,7 +28,7 @@
 ## 📁 Project Structure
 
 ```
-CleanTrack_GSPC/
+CleanTrack_GSCP/
 ├── src/
 │   ├── models/              # ML model implementations
 │   │   ├── route_optimizer.py
@@ -66,8 +66,8 @@ CleanTrack_GSPC/
 ### 1. Install
 
 ```bash
-git clone https://github.com/yourusername/CleanTrack_GSPC.git
-cd CleanTrack_GSPC
+git clone https://github.com/yourusername/CleanTrack_GSCP.git
+cd CleanTrack_GSCP
 pip install -r requirements.txt
 ```
 
