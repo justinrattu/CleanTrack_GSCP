@@ -28,7 +28,7 @@
 ## 📁 Project Structure
 
 ```
-green-supply-chain/
+green-supply-chain-2/
 ├── src/
 │   ├── models/              # ML model implementations
 │   │   ├── route_optimizer.py
@@ -66,8 +66,8 @@ green-supply-chain/
 ### 1. Install
 
 ```bash
-git clone https://github.com/yourusername/green-supply-chain.git
-cd green-supply-chain
+git clone https://github.com/yourusername/green-supply-chain-2.git
+cd green-supply-chain-2
 pip install -r requirements.txt
 ```
 
