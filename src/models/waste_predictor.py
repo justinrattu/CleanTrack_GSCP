@@ -212,12 +212,16 @@ class WastePredictor:
             df["quarter"] = dates.dt.quarter
             df["is_peak_season"] = dates.dt.month.isin([11, 12, 1]).astype(int)
         else:
-            df.setdefault("month", 6)
-            df.setdefault("quarter", 2)
-            df.setdefault("is_peak_season", 0)
+            if "month" not in df.columns:
+                df["month"] = 6
+            if "quarter" not in df.columns:
+                df["quarter"] = 2
+            if "is_peak_season" not in df.columns:
+                df["is_peak_season"] = 0
 
         for col in self.FEATURE_COLS:
-            df.setdefault(col, 0)
+            if col not in df.columns:
+                df[col] = 0
 
         return df
 
