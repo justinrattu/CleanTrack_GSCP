@@ -1,13 +1,12 @@
 """
-GreenChain ML Dashboard — Main entry point.
+Green Supply Chain — Main entry point.
 Run with: streamlit run dashboard/app.py
 """
 
 import streamlit as st
 
 st.set_page_config(
-    page_title="GreenChain ML",
-    page_icon="🌿",
+    page_title="CleanTrack - Green Supply Chain Optimization",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -65,7 +64,7 @@ h1, h2, h3 {
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("# GreenChain ML")
+st.markdown("# CleanTrack")
 st.markdown("##### Sustainable supply chain intelligence — logistics, waste & circularity")
 st.divider()
 
