@@ -28,7 +28,7 @@
 ## 📁 Project Structure
 
 ```
-green-supply-chain-2/
+CleanTrack_GSPC/
 ├── src/
 │   ├── models/              # ML model implementations
 │   │   ├── route_optimizer.py
@@ -66,8 +66,8 @@ green-supply-chain-2/
 ### 1. Install
 
 ```bash
-git clone https://github.com/yourusername/green-supply-chain-2.git
-cd green-supply-chain-2
+git clone https://github.com/yourusername/CleanTrack_GSPC.git
+cd CleanTrack_GSPC
 pip install -r requirements.txt
 ```
 
