@@ -1,4 +1,4 @@
-# 🌿 GreenChain ML
+# CleanTrack - Green Supply Chain Dashboard
 
 **An open-source Python ML toolkit for sustainable supply chain optimization** — combining logistics efficiency with circular economy principles to reduce carbon footprint and waste across the supply network.
 
