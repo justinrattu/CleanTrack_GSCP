@@ -4,7 +4,7 @@
 
 ---
 
-##Project Goals
+## Project Goals
 
 - **Optimize logistics routes** to minimize carbon emissions and fuel consumption
 - **Predict & reduce waste** using ML models across the supply chain lifecycle
@@ -13,7 +13,7 @@
 
 ---
 
-##Models & Features
+## Models & Features
 
 | Module | Description | Algorithms |
 |---|---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```
 CleanTrack_GSCP/
@@ -61,7 +61,7 @@ CleanTrack_GSCP/
 
 ---
 
-##Quickstart
+## Quickstart
 
 ### 1. Install
 
