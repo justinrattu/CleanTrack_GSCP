@@ -147,7 +147,7 @@ MIT License — see [`LICENSE`](LICENSE) for details.
 
 ---
 
-## 📚 References
+## References
 
 - [GHG Protocol Corporate Standard](https://ghgprotocol.org/)
 - [Ellen MacArthur Foundation Circular Economy](https://ellenmacarthurfoundation.org/)
